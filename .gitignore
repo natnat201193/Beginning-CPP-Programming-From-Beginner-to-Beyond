@@ -2,7 +2,7 @@
 *.vcxproj
 *.filters
 *.user
-*/Debug
-*/Release
-*/x64
+**/Debug
+**/Release
+**/x64
 0
