@@ -1,0 +1,2 @@
+C:\Users\natha\Desktop\Coding\Beginning-CPP-Programming-From-Beginner-to-Beyond\BasicIO\Debug\BasicIO.exe
+C:\Users\natha\Desktop\Coding\Beginning-CPP-Programming-From-Beginner-to-Beyond\BasicIO\Debug\BasicIO.pdb
