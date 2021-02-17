@@ -7,7 +7,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_Initializing_Varia
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_Global_Variables", "Section6_Global_Variables\Section6_Global_Variables.vcxproj", "{73AF54AC-7A92-4809-B948-CD3FFCFB5FDE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_Primative_Data_Types", "Section6_Primative_Data_Types\Section6_Primative_Data_Types.vcxproj", "{B54FD662-311E-4C21-8AED-A0BD2407B3F5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_Primitive_Data_Types", "Section6_Primative_Data_Types\Section6_Primative_Data_Types.vcxproj", "{B54FD662-311E-4C21-8AED-A0BD2407B3F5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_Size_Of_Operator", "Section6_Size_Of_Operator\Section6_Size_Of_Operator.vcxproj", "{956F4C19-FE9F-486A-AA39-FF94BA054E8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,14 @@ Global
 		{B54FD662-311E-4C21-8AED-A0BD2407B3F5}.Release|x64.Build.0 = Release|x64
 		{B54FD662-311E-4C21-8AED-A0BD2407B3F5}.Release|x86.ActiveCfg = Release|Win32
 		{B54FD662-311E-4C21-8AED-A0BD2407B3F5}.Release|x86.Build.0 = Release|Win32
+		{956F4C19-FE9F-486A-AA39-FF94BA054E8A}.Debug|x64.ActiveCfg = Debug|x64
+		{956F4C19-FE9F-486A-AA39-FF94BA054E8A}.Debug|x64.Build.0 = Debug|x64
+		{956F4C19-FE9F-486A-AA39-FF94BA054E8A}.Debug|x86.ActiveCfg = Debug|Win32
+		{956F4C19-FE9F-486A-AA39-FF94BA054E8A}.Debug|x86.Build.0 = Debug|Win32
+		{956F4C19-FE9F-486A-AA39-FF94BA054E8A}.Release|x64.ActiveCfg = Release|x64
+		{956F4C19-FE9F-486A-AA39-FF94BA054E8A}.Release|x64.Build.0 = Release|x64
+		{956F4C19-FE9F-486A-AA39-FF94BA054E8A}.Release|x86.ActiveCfg = Release|Win32
+		{956F4C19-FE9F-486A-AA39-FF94BA054E8A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
