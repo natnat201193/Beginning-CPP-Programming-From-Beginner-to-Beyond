@@ -40,14 +40,18 @@ int main()
     cout << "How many rooms would you like cleaned? ";
     int NumberOfRooms{ 0 };
     cin >> NumberOfRooms;
+
+    const double PricePerRoom{ 30.0 }, SalesTax{ 0.06 };
+    const int EstimateExpiry{ 30 }; // Days.
+
     cout << "\nEstimate for carpet cleaning service: \n";
     cout << "Number of rooms: " << NumberOfRooms << endl;
-    cout << "Price per room: $" << 30 << endl;
-    cout << "Cost: $" << 30 * NumberOfRooms << endl;
-    cout << "Sales tax: $" << 30 * NumberOfRooms * 0.06 << endl;
+    cout << "Price per room: $" << PricePerRoom << endl;
+    cout << "Cost: $" << (PricePerRoom * NumberOfRooms) << endl;
+    cout << "Sales tax: $" << (PricePerRoom * NumberOfRooms * SalesTax) << endl;
     cout << "\n=========================================================\n";
-    cout << "Total estimate: $" << (30 * NumberOfRooms) + (30 * NumberOfRooms * 0.06) << endl;
-    cout << "This estimate is valid for " << 30 << " days.\n";
+    cout << "Total estimate: $" << ((PricePerRoom * NumberOfRooms) + (PricePerRoom * NumberOfRooms * SalesTax)) << endl;
+    cout << "This estimate is valid for " << EstimateExpiry << " days.\n";
 
     cout << endl;
     return 0;
