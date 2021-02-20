@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_Assignment_Operator", "Section8_Assignment_Operator\Section8_Assignment_Operator.vcxproj", "{B19D73D5-48D3-44E6-A663-984A777B8FE3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_Arithmetic_Operators", "Section8_Arithmetic_Operators\Section8_Arithmetic_Operators.vcxproj", "{743D3096-1817-4CDC-A595-B804107332AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B19D73D5-48D3-44E6-A663-984A777B8FE3}.Release|x64.Build.0 = Release|x64
 		{B19D73D5-48D3-44E6-A663-984A777B8FE3}.Release|x86.ActiveCfg = Release|Win32
 		{B19D73D5-48D3-44E6-A663-984A777B8FE3}.Release|x86.Build.0 = Release|Win32
+		{743D3096-1817-4CDC-A595-B804107332AA}.Debug|x64.ActiveCfg = Debug|x64
+		{743D3096-1817-4CDC-A595-B804107332AA}.Debug|x64.Build.0 = Debug|x64
+		{743D3096-1817-4CDC-A595-B804107332AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{743D3096-1817-4CDC-A595-B804107332AA}.Debug|x86.Build.0 = Debug|Win32
+		{743D3096-1817-4CDC-A595-B804107332AA}.Release|x64.ActiveCfg = Release|x64
+		{743D3096-1817-4CDC-A595-B804107332AA}.Release|x64.Build.0 = Release|x64
+		{743D3096-1817-4CDC-A595-B804107332AA}.Release|x86.ActiveCfg = Release|Win32
+		{743D3096-1817-4CDC-A595-B804107332AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
