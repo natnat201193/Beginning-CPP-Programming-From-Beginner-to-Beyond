@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_Shipping", "Sectio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_Switch_Statement", "Section9_Switch_Statement\Section9_Switch_Statement.vcxproj", "{970D1211-99B1-40A6-9FF4-C0A02339DCBF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_Switch_Statement_With_Enumeration", "Section9_Switch_Statement_With_Enumeration\Section9_Switch_Statement_With_Enumeration.vcxproj", "{FB4A0B1D-D99C-4527-88BA-6496B68357D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{970D1211-99B1-40A6-9FF4-C0A02339DCBF}.Release|x64.Build.0 = Release|x64
 		{970D1211-99B1-40A6-9FF4-C0A02339DCBF}.Release|x86.ActiveCfg = Release|Win32
 		{970D1211-99B1-40A6-9FF4-C0A02339DCBF}.Release|x86.Build.0 = Release|Win32
+		{FB4A0B1D-D99C-4527-88BA-6496B68357D6}.Debug|x64.ActiveCfg = Debug|x64
+		{FB4A0B1D-D99C-4527-88BA-6496B68357D6}.Debug|x64.Build.0 = Debug|x64
+		{FB4A0B1D-D99C-4527-88BA-6496B68357D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB4A0B1D-D99C-4527-88BA-6496B68357D6}.Debug|x86.Build.0 = Debug|Win32
+		{FB4A0B1D-D99C-4527-88BA-6496B68357D6}.Release|x64.ActiveCfg = Release|x64
+		{FB4A0B1D-D99C-4527-88BA-6496B68357D6}.Release|x64.Build.0 = Release|x64
+		{FB4A0B1D-D99C-4527-88BA-6496B68357D6}.Release|x86.ActiveCfg = Release|Win32
+		{FB4A0B1D-D99C-4527-88BA-6496B68357D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
