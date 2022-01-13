@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_1_InitialisingVari
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_2_GlobalVariables", "Section6_2_GlobalVariables\Section6_2_GlobalVariables.vcxproj", "{D3040344-5581-47E6-BD6A-A112D6B4022B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_3_PrimitiveTypes", "Section6_3_PrimitiveTypes\Section6_3_PrimitiveTypes.vcxproj", "{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{D3040344-5581-47E6-BD6A-A112D6B4022B}.Release|x64.Build.0 = Release|x64
 		{D3040344-5581-47E6-BD6A-A112D6B4022B}.Release|x86.ActiveCfg = Release|Win32
 		{D3040344-5581-47E6-BD6A-A112D6B4022B}.Release|x86.Build.0 = Release|Win32
+		{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}.Debug|x64.ActiveCfg = Debug|x64
+		{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}.Debug|x64.Build.0 = Debug|x64
+		{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}.Debug|x86.ActiveCfg = Debug|Win32
+		{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}.Debug|x86.Build.0 = Debug|Win32
+		{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}.Release|x64.ActiveCfg = Release|x64
+		{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}.Release|x64.Build.0 = Release|x64
+		{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}.Release|x86.ActiveCfg = Release|Win32
+		{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
