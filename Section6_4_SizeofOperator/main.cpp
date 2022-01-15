@@ -5,8 +5,7 @@
 #include <iostream>
 
 // make sure you include climits for integer types
-// Similar information for floating point numbers
-// is contained in <cfloat>
+// Similar information for floating point numbers is contained in <cfloat>
 #include <climits>
 
 int main() {

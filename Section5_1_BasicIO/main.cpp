@@ -20,7 +20,7 @@ int main()
 
 
 	int num1{};
-	int num2{};
+	//int num2{};
 	double num3{};
 
 	//std::cout << "Enter an interger: ";
