@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section7_2_Vectors", "Secti
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section7_3_Challenge", "Section7_3_Challenge\Section7_3_Challenge.vcxproj", "{BB17181D-226B-4638-9CE7-6092DB62E490}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_1_AssignmentOperator", "Section8_1_AssignmentOperator\Section8_1_AssignmentOperator.vcxproj", "{413E4617-DB50-4D8E-A4D1-1A02120C4196}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{BB17181D-226B-4638-9CE7-6092DB62E490}.Release|x64.Build.0 = Release|x64
 		{BB17181D-226B-4638-9CE7-6092DB62E490}.Release|x86.ActiveCfg = Release|Win32
 		{BB17181D-226B-4638-9CE7-6092DB62E490}.Release|x86.Build.0 = Release|Win32
+		{413E4617-DB50-4D8E-A4D1-1A02120C4196}.Debug|x64.ActiveCfg = Debug|x64
+		{413E4617-DB50-4D8E-A4D1-1A02120C4196}.Debug|x64.Build.0 = Debug|x64
+		{413E4617-DB50-4D8E-A4D1-1A02120C4196}.Debug|x86.ActiveCfg = Debug|Win32
+		{413E4617-DB50-4D8E-A4D1-1A02120C4196}.Debug|x86.Build.0 = Debug|Win32
+		{413E4617-DB50-4D8E-A4D1-1A02120C4196}.Release|x64.ActiveCfg = Release|x64
+		{413E4617-DB50-4D8E-A4D1-1A02120C4196}.Release|x64.Build.0 = Release|x64
+		{413E4617-DB50-4D8E-A4D1-1A02120C4196}.Release|x86.ActiveCfg = Release|Win32
+		{413E4617-DB50-4D8E-A4D1-1A02120C4196}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
