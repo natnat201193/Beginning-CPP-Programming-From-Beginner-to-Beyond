@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_3_EurosToUSD", "Se
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_4_IncrementDecrementOperators", "Section8_4_IncrementDecrementOperators\Section8_4_IncrementDecrementOperators.vcxproj", "{4AFFCDF2-7B03-411A-8CCC-4852560C486C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_5_MixedExpressions", "Section8_5_MixedExpressions\Section8_5_MixedExpressions.vcxproj", "{8F40773D-DD70-4F8A-914C-748869C72100}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{4AFFCDF2-7B03-411A-8CCC-4852560C486C}.Release|x64.Build.0 = Release|x64
 		{4AFFCDF2-7B03-411A-8CCC-4852560C486C}.Release|x86.ActiveCfg = Release|Win32
 		{4AFFCDF2-7B03-411A-8CCC-4852560C486C}.Release|x86.Build.0 = Release|Win32
+		{8F40773D-DD70-4F8A-914C-748869C72100}.Debug|x64.ActiveCfg = Debug|x64
+		{8F40773D-DD70-4F8A-914C-748869C72100}.Debug|x64.Build.0 = Debug|x64
+		{8F40773D-DD70-4F8A-914C-748869C72100}.Debug|x86.ActiveCfg = Debug|Win32
+		{8F40773D-DD70-4F8A-914C-748869C72100}.Debug|x86.Build.0 = Debug|Win32
+		{8F40773D-DD70-4F8A-914C-748869C72100}.Release|x64.ActiveCfg = Release|x64
+		{8F40773D-DD70-4F8A-914C-748869C72100}.Release|x64.Build.0 = Release|x64
+		{8F40773D-DD70-4F8A-914C-748869C72100}.Release|x86.ActiveCfg = Release|Win32
+		{8F40773D-DD70-4F8A-914C-748869C72100}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
