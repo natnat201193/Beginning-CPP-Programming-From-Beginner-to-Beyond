@@ -9,8 +9,8 @@
     Increments or decrements its operand by 1
     Can be used with integers, floating point types and pointers
 
-    Prefix   ++num
-    Postfix  num++
+    Prefix   ++num // increment before use.
+    Postfix  num++ // increment after use.
 
     Don't overuse this operator! Never use it twice for the same variable in the same statement!!
 */
@@ -41,9 +41,9 @@ int main()
         
     std::cout << "Counter: " << Counter << std::endl;
         
-    Result = ++Counter; // Note the pre increment
+    Result = ++Counter; // Note the pre increment // increment before use.
     std::cout << "Counter : " << Counter << std::endl;
-    std::cout << "Result : " << Result << std::endl;
+    std::cout << "Result : " << Result << ". increment before use." << std::endl;
 
 
     std::cout << std::endl << "Example 3 - post-increment" << std::endl;
@@ -52,9 +52,9 @@ int main()
         
     std::cout << "Counter: " << Counter << std::endl;
         
-    Result = Counter++; // Note the post increment
+    Result = Counter++; // Note the post increment // increment after use.
     std::cout << "Counter: " << Counter << std::endl;
-    std::cout << "Result: " << Result << std::endl;
+    std::cout << "Result: " << Result << ". increment after use." << std::endl;
 
 
     std::cout << std::endl << "Example 4" << std::endl;
