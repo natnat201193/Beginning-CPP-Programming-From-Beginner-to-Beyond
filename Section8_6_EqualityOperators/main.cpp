@@ -38,7 +38,6 @@ int main()
     std::cout << "Comparision result (equals) : " << EqualResult << std::endl;
     std::cout << "Comparision result (not equals) : " << NotEqualResult << std::endl << std::endl;
 
-
     std::cout << "Enter an integer and a double separated by a space: ";
     std::cin >> Num1 >> Double1;
     EqualResult = (Num1 == Double1);
