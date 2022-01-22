@@ -6,7 +6,8 @@
 
 #include <iostream>
 
-int main() {
+int main() 
+{
     int Num{};
     const int Min{ 10 };
     const int Max{ 100 };
