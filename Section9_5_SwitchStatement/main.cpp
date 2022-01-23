@@ -1,8 +1,8 @@
 // This is a personal academic project. Dear PVS-Studio, please check it.
 
 // PVS-Studio Static Code Analyzer for C, C++, C#, and Java: http://www.viva64.com
-// Switch Statement
 
+// Switch Statement
 /*
     Ask the user what grade they expect on an exam and
     tell them what they need to score to get it.

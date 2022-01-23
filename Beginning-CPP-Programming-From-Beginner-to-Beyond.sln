@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_4_Shipping", "Sect
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_5_SwitchStatement", "Section9_5_SwitchStatement\Section9_5_SwitchStatement.vcxproj", "{E97EF48D-0277-4BFC-B2A8-FA9E7171EB4B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_6_SwitchEnum", "Section9_6_SwitchEnum\Section9_6_SwitchEnum.vcxproj", "{8A2D9DD2-52A9-478D-9577-1581F67E03B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -271,6 +273,14 @@ Global
 		{E97EF48D-0277-4BFC-B2A8-FA9E7171EB4B}.Release|x64.Build.0 = Release|x64
 		{E97EF48D-0277-4BFC-B2A8-FA9E7171EB4B}.Release|x86.ActiveCfg = Release|Win32
 		{E97EF48D-0277-4BFC-B2A8-FA9E7171EB4B}.Release|x86.Build.0 = Release|Win32
+		{8A2D9DD2-52A9-478D-9577-1581F67E03B4}.Debug|x64.ActiveCfg = Debug|x64
+		{8A2D9DD2-52A9-478D-9577-1581F67E03B4}.Debug|x64.Build.0 = Debug|x64
+		{8A2D9DD2-52A9-478D-9577-1581F67E03B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A2D9DD2-52A9-478D-9577-1581F67E03B4}.Debug|x86.Build.0 = Debug|Win32
+		{8A2D9DD2-52A9-478D-9577-1581F67E03B4}.Release|x64.ActiveCfg = Release|x64
+		{8A2D9DD2-52A9-478D-9577-1581F67E03B4}.Release|x64.Build.0 = Release|x64
+		{8A2D9DD2-52A9-478D-9577-1581F67E03B4}.Release|x86.ActiveCfg = Release|Win32
+		{8A2D9DD2-52A9-478D-9577-1581F67E03B4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
