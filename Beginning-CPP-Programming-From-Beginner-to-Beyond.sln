@@ -3,69 +3,69 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section4_1_FirstProgram", "Section4_1_FirstProgram\Section4_1_FirstProgram.vcxproj", "{7B0A9B81-760B-46E2-8D3A-77CC3AAA143C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section4_A_FirstProgram", "Section4_A_FirstProgram\Section4_A_FirstProgram.vcxproj", "{7B0A9B81-760B-46E2-8D3A-77CC3AAA143C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section4_2_Challenge", "Section4_2_Challenge\Section4_2_Challenge.vcxproj", "{7E9CB6ED-E9C7-4C94-814B-52125AF63554}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section4_B_Challenge", "Section4_B_Challenge\Section4_B_Challenge.vcxproj", "{7E9CB6ED-E9C7-4C94-814B-52125AF63554}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section5_1_BasicIO", "Section5_1_BasicIO\Section5_1_BasicIO.vcxproj", "{10814C93-5706-42EF-8957-D94D04645D77}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section5_A_BasicIO", "Section5_A_BasicIO\Section5_A_BasicIO.vcxproj", "{10814C93-5706-42EF-8957-D94D04645D77}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_1_InitialisingVariables", "Section6_1_InitialisingVariables\Section6_1_InitialisingVariables.vcxproj", "{ECF08EA9-7038-41CE-B51B-BB2847A62A87}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_A_InitialisingVariables", "Section6_A_InitialisingVariables\Section6_A_InitialisingVariables.vcxproj", "{ECF08EA9-7038-41CE-B51B-BB2847A62A87}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_2_GlobalVariables", "Section6_2_GlobalVariables\Section6_2_GlobalVariables.vcxproj", "{D3040344-5581-47E6-BD6A-A112D6B4022B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_B_GlobalVariables", "Section6_B_GlobalVariables\Section6_B_GlobalVariables.vcxproj", "{D3040344-5581-47E6-BD6A-A112D6B4022B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_3_PrimitiveTypes", "Section6_3_PrimitiveTypes\Section6_3_PrimitiveTypes.vcxproj", "{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_C_PrimitiveTypes", "Section6_C_PrimitiveTypes\Section6_C_PrimitiveTypes.vcxproj", "{5BA42FAC-3CEC-42DD-95C2-A70F4D87A07A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_4_SizeofOperator", "Section6_4_SizeofOperator\Section6_4_SizeofOperator.vcxproj", "{06A3725B-358A-4CBA-A68C-C3D3166081F0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_D_SizeofOperator", "Section6_D_SizeofOperator\Section6_D_SizeofOperator.vcxproj", "{06A3725B-358A-4CBA-A68C-C3D3166081F0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_5_Constants", "Section6_5_Constants\Section6_5_Constants.vcxproj", "{31E0E3B4-0CEE-490E-8CB5-41B12A9D1A24}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_E_Constants", "Section6_E_Constants\Section6_E_Constants.vcxproj", "{31E0E3B4-0CEE-490E-8CB5-41B12A9D1A24}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_6_Challenge", "Section6_6_Challenge\Section6_6_Challenge.vcxproj", "{96DE134B-7E2B-44DB-8C24-8F0648E21E30}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section6_F_Challenge", "Section6_F_Challenge\Section6_F_Challenge.vcxproj", "{96DE134B-7E2B-44DB-8C24-8F0648E21E30}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section7_1_Arrays", "Section7_1_Arrays\Section7_1_Arrays.vcxproj", "{1FC9246E-09DB-45CC-A55F-D4231C93EFC4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section7_A_Arrays", "Section7_A_Arrays\Section7_A_Arrays.vcxproj", "{1FC9246E-09DB-45CC-A55F-D4231C93EFC4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section7_2_Vectors", "Section7_2_Vectors\Section7_2_Vectors.vcxproj", "{CD6FE8E4-9ED4-4AD6-A814-79FF5141EDDB}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section7_B_Vectors", "Section7_B_Vectors\Section7_B_Vectors.vcxproj", "{CD6FE8E4-9ED4-4AD6-A814-79FF5141EDDB}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section7_3_Challenge", "Section7_3_Challenge\Section7_3_Challenge.vcxproj", "{BB17181D-226B-4638-9CE7-6092DB62E490}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section7_C_Challenge", "Section7_C_Challenge\Section7_C_Challenge.vcxproj", "{BB17181D-226B-4638-9CE7-6092DB62E490}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_1_AssignmentOperator", "Section8_1_AssignmentOperator\Section8_1_AssignmentOperator.vcxproj", "{413E4617-DB50-4D8E-A4D1-1A02120C4196}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_A_AssignmentOperator", "Section8_A_AssignmentOperator\Section8_A_AssignmentOperator.vcxproj", "{413E4617-DB50-4D8E-A4D1-1A02120C4196}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_2_ArithmeticOperators", "Section8_2_ArithmeticOperators\Section8_2_ArithmeticOperators.vcxproj", "{70B9B93A-C9A2-4812-B389-113925820088}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_B_ArithmeticOperators", "Section8_B_ArithmeticOperators\Section8_B_ArithmeticOperators.vcxproj", "{70B9B93A-C9A2-4812-B389-113925820088}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_3_EurosToUSD", "Section8_3_EurosToUSD\Section8_3_EurosToUSD.vcxproj", "{F0C0A037-BC05-4BF3-B568-CF38433D2E8E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_C_EurosToUSD", "Section8_C_EurosToUSD\Section8_C_EurosToUSD.vcxproj", "{F0C0A037-BC05-4BF3-B568-CF38433D2E8E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_4_IncrementDecrementOperators", "Section8_4_IncrementDecrementOperators\Section8_4_IncrementDecrementOperators.vcxproj", "{4AFFCDF2-7B03-411A-8CCC-4852560C486C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_D_IncrementDecrementOperators", "Section8_D_IncrementDecrementOperators\Section8_D_IncrementDecrementOperators.vcxproj", "{4AFFCDF2-7B03-411A-8CCC-4852560C486C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_5_MixedExpressions", "Section8_5_MixedExpressions\Section8_5_MixedExpressions.vcxproj", "{8F40773D-DD70-4F8A-914C-748869C72100}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_E_MixedExpressions", "Section8_E_MixedExpressions\Section8_E_MixedExpressions.vcxproj", "{8F40773D-DD70-4F8A-914C-748869C72100}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_6_EqualityOperators", "Section8_6_EqualityOperators\Section8_6_EqualityOperators.vcxproj", "{FC858371-6772-40FB-93C2-31AD09824C55}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_F_EqualityOperators", "Section8_F_EqualityOperators\Section8_F_EqualityOperators.vcxproj", "{FC858371-6772-40FB-93C2-31AD09824C55}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_7_RelationalOperators", "Section8_7_RelationalOperators\Section8_7_RelationalOperators.vcxproj", "{01C529F3-F685-40D6-BD16-B0BEEC1A1EA2}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_G_RelationalOperators", "Section8_G_RelationalOperators\Section8_G_RelationalOperators.vcxproj", "{01C529F3-F685-40D6-BD16-B0BEEC1A1EA2}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_8_LogicalOperators", "Section8_8_LogicalOperators\Section8_8_LogicalOperators.vcxproj", "{16EA28E3-403B-4E46-895E-D9F5FE87B863}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_H_LogicalOperators", "Section8_H_LogicalOperators\Section8_H_LogicalOperators.vcxproj", "{16EA28E3-403B-4E46-895E-D9F5FE87B863}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_9_Challenge", "Section8_9_Challenge\Section8_9_Challenge.vcxproj", "{D9926237-03C3-4139-B294-007ACA225CFA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section8_I_Challenge", "Section8_I_Challenge\Section8_I_Challenge.vcxproj", "{D9926237-03C3-4139-B294-007ACA225CFA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_1_IfStatement", "Section9_1_IfStatement\Section9_1_IfStatement.vcxproj", "{FB48ED6F-08F0-4C1C-802A-3AB53E0AB97F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_A_IfStatement", "Section9_A_IfStatement\Section9_A_IfStatement.vcxproj", "{FB48ED6F-08F0-4C1C-802A-3AB53E0AB97F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_2_IfElseStatement", "Section9_2_IfElseStatement\Section9_2_IfElseStatement.vcxproj", "{D5DFF4DC-D437-465C-BA82-442B0F181711}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_B_IfElseStatement", "Section9_B_IfElseStatement\Section9_B_IfElseStatement.vcxproj", "{D5DFF4DC-D437-465C-BA82-442B0F181711}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_3_Grades", "Section9_3_Grades\Section9_3_Grades.vcxproj", "{E248B548-C0C4-4EE2-B696-61923DE442E3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_C_Grades", "Section9_C_Grades\Section9_C_Grades.vcxproj", "{E248B548-C0C4-4EE2-B696-61923DE442E3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_4_Shipping", "Section9_4_Shipping\Section9_4_Shipping.vcxproj", "{9C0C2943-5C43-4AA7-BA1E-5E7738D04486}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_D_Shipping", "Section9_D_Shipping\Section9_D_Shipping.vcxproj", "{9C0C2943-5C43-4AA7-BA1E-5E7738D04486}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_5_SwitchStatement", "Section9_5_SwitchStatement\Section9_5_SwitchStatement.vcxproj", "{E97EF48D-0277-4BFC-B2A8-FA9E7171EB4B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_E_SwitchStatement", "Section9_E_SwitchStatement\Section9_E_SwitchStatement.vcxproj", "{E97EF48D-0277-4BFC-B2A8-FA9E7171EB4B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_6_SwitchEnum", "Section9_6_SwitchEnum\Section9_6_SwitchEnum.vcxproj", "{8A2D9DD2-52A9-478D-9577-1581F67E03B4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_F_SwitchEnum", "Section9_F_SwitchEnum\Section9_F_SwitchEnum.vcxproj", "{8A2D9DD2-52A9-478D-9577-1581F67E03B4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_7_ConditionalOperator", "Section9_7_ConditionalOperator\Section9_7_ConditionalOperator.vcxproj", "{BBFD3367-C877-436E-83A0-AFF8FCBE799D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_G_ConditionalOperator", "Section9_G_ConditionalOperator\Section9_G_ConditionalOperator.vcxproj", "{BBFD3367-C877-436E-83A0-AFF8FCBE799D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_8_ForLoop", "Section9_8_ForLoop\Section9_8_ForLoop.vcxproj", "{686FDC60-4FFC-4E2D-ACD6-123BF9E21454}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_H_ForLoop", "Section9_H_ForLoop\Section9_H_ForLoop.vcxproj", "{686FDC60-4FFC-4E2D-ACD6-123BF9E21454}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_9_RangeBasedForLoop", "Section9_9_RangeBasedForLoop\Section9_9_RangeBasedForLoop.vcxproj", "{8E80FEB2-E6BC-448C-9A1C-1DAE1EC1D351}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_I_RangeBasedForLoop", "Section9_I_RangeBasedForLoop\Section9_I_RangeBasedForLoop.vcxproj", "{8E80FEB2-E6BC-448C-9A1C-1DAE1EC1D351}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_10_WhileLoop", "Section9_10_WhileLoop\Section9_10_WhileLoop.vcxproj", "{0C636533-9685-4E15-A91F-2E16B3022E94}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_J_WhileLoop", "Section9_J_WhileLoop\Section9_J_WhileLoop.vcxproj", "{0C636533-9685-4E15-A91F-2E16B3022E94}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_11_DoWhileLoop", "Section9_11_DoWhileLoop\Section9_11_DoWhileLoop.vcxproj", "{33F1EF70-1638-4D69-9F11-40716254FEFF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section9_K_DoWhileLoop", "Section9_K_DoWhileLoop\Section9_K_DoWhileLoop.vcxproj", "{33F1EF70-1638-4D69-9F11-40716254FEFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
