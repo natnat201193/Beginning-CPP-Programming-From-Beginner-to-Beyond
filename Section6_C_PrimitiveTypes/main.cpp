@@ -2,6 +2,8 @@
 
 // PVS-Studio Static Code Analyzer for C, C++, C#, and Java: http://www.viva64.com
 
+#define _USE_MATH_DEFINES // for M_PI
+#include <cmath> // for M_PI
 #include <iostream>
 
 int main()
@@ -40,7 +42,7 @@ int main()
 	float CarPayment{ 401.23f }; // Will give a truncation from double to float without using the f suffix???
 	std::cout << "My car payment is " << CarPayment << std::endl;
 
-	double PI{ 3.14159 };
+	double PI = M_PI;
 	std::cout << "PI is " << PI << std::endl;
 
 	long double LargeAmount{ 2.7e120 };
