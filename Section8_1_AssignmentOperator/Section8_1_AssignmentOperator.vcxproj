@@ -24,6 +24,7 @@
     <ProjectGuid>{413e4617-db50-4d8e-a4d1-1a02120c4196}</ProjectGuid>
     <RootNamespace>Section81AssignmentOperator</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Section8_A_AssignmentOperator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

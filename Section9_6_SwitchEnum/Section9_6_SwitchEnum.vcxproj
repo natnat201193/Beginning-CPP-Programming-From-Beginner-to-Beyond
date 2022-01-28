@@ -24,6 +24,7 @@
     <ProjectGuid>{8a2d9dd2-52a9-478d-9577-1581f67e03b4}</ProjectGuid>
     <RootNamespace>Section9_6_SwitchEnum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Section9_F_SwitchEnum</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

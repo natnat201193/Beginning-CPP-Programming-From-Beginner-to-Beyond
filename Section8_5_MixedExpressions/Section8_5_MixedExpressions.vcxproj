@@ -24,6 +24,7 @@
     <ProjectGuid>{8f40773d-dd70-4f8a-914c-748869c72100}</ProjectGuid>
     <RootNamespace>Section85MixedExpressions</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Section8_E_MixedExpressions</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

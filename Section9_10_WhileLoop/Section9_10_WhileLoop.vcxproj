@@ -24,6 +24,7 @@
     <ProjectGuid>{0c636533-9685-4e15-a91f-2e16b3022e94}</ProjectGuid>
     <RootNamespace>Section9_10_WhileLoop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Section9_J_WhileLoop</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
