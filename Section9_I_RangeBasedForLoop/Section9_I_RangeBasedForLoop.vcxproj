@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{8e80feb2-e6bc-448c-9a1c-1dae1ec1d351}</ProjectGuid>
-    <RootNamespace>Section9IRangeBasedForLoop</RootNamespace>
+    <RootNamespace>Section9_I_RangeBasedForLoop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section9_I_RangeBasedForLoop</ProjectName>
   </PropertyGroup>

@@ -4,14 +4,14 @@
 
 #include <iostream>
 
-int main() {
-
+int main()
+{
     int Num1{ 10 };
     int Num2{ 20 };
 
     Num1 = Num2;
 
-    std::cout 
+    std::cout
         << "num1 is " << Num1 << std::endl
         << "num2 is " << Num2 << std::endl << std::endl;
 

@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{9c0c2943-5c43-4aa7-ba1e-5e7738d04486}</ProjectGuid>
-    <RootNamespace>Section9DShipping</RootNamespace>
+    <RootNamespace>Section9_D_Shipping</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section9_D_Shipping</ProjectName>
   </PropertyGroup>

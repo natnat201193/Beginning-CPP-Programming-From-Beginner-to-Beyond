@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{d5dff4dc-d437-465c-ba82-442b0f181711}</ProjectGuid>
-    <RootNamespace>Section9BIfElseStatement</RootNamespace>
+    <RootNamespace>Section9_B_IfElseStatement</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section9_B_IfElseStatement</ProjectName>
   </PropertyGroup>

@@ -8,7 +8,8 @@
 // Similar information for floating point numbers is contained in <cfloat>
 #include <climits>
 
-int main() {
+int main()
+{
 
     std::cout << "sizeof information" << std::endl;
     std::cout << "========================" << std::endl;

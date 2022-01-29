@@ -27,13 +27,13 @@ Total estimate: $116.6
 This estimate is valid for 30 days
 */
 
-int main() 
+int main()
 {
     int small_rooms{ 0 }, large_rooms{ 0 };
     const double price_per_small_room{ 25.0 }, price_per_large_room{ 35.0 }, sales_tax{ 0.06 };
     const int estimate_expiry{ 30 }; // days
 
-    std::cout 
+    std::cout
         << "Hello, welcome to Frank's Carpet Cleaning Service" << std::endl << std::endl;
 
     std::cout << "How many small rooms would you like cleaned? ";
@@ -42,8 +42,8 @@ int main()
     std::cout << "How many large rooms would you like cleaned? ";
     std::cin >> large_rooms;
 
-    std::cout 
-        << std::endl 
+    std::cout
+        << std::endl
         << "Estimate for carpet cleaning service" << std::endl
         << "Number of small rooms: " << small_rooms << std::endl
         << "Number of large rooms: " << large_rooms << std::endl

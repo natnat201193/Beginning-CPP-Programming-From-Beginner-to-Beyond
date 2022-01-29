@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{70b9b93a-c9a2-4812-b389-113925820088}</ProjectGuid>
-    <RootNamespace>Section8BArithmeticOperators</RootNamespace>
+    <RootNamespace>Section8_B_ArithmeticOperators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section8_B_ArithmeticOperators</ProjectName>
   </PropertyGroup>

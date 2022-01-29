@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{ecf08ea9-7038-41ce-b51b-bb2847a62a87}</ProjectGuid>
-    <RootNamespace>Section6AInitialisingVariables</RootNamespace>
+    <RootNamespace>Section6_A_InitialisingVariables</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section6_A_InitialisingVariables</ProjectName>
   </PropertyGroup>

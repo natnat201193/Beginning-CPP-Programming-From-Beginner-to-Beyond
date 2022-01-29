@@ -33,7 +33,7 @@ Pseudocode:
     Display estimate expiration time
 */
 
-int main() 
+int main()
 {
     int NumberOfRooms{ 0 };
     const double  PricePerRoom{ 32.5 };

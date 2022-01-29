@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{33f1ef70-1638-4d69-9f11-40716254feff}</ProjectGuid>
-    <RootNamespace>Section9KDoWhileLoop</RootNamespace>
+    <RootNamespace>Section9_K_DoWhileLoop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section9_K_DoWhileLoop</ProjectName>
   </PropertyGroup>

@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{fc858371-6772-40fb-93c2-31ad09824c55}</ProjectGuid>
-    <RootNamespace>Section8FEqualityOperators</RootNamespace>
+    <RootNamespace>Section8_F_EqualityOperators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section8_F_EqualityOperators</ProjectName>
   </PropertyGroup>

@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{10814c93-5706-42ef-8957-d94d04645d77}</ProjectGuid>
-    <RootNamespace>Section5ABasicIO</RootNamespace>
+    <RootNamespace>Section5_A_BasicIO</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section5_A_BasicIO</ProjectName>
   </PropertyGroup>

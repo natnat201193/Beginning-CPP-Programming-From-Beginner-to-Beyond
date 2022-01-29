@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{5ba42fac-3cec-42dd-95c2-a70f4d87a07a}</ProjectGuid>
-    <RootNamespace>Section6CPrimitiveTypes</RootNamespace>
+    <RootNamespace>Section6_C_PrimitiveTypes</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section6_C_PrimitiveTypes</ProjectName>
   </PropertyGroup>

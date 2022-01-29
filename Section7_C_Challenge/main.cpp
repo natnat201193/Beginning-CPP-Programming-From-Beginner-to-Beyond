@@ -32,7 +32,7 @@
 #include <iostream>
 #include <vector>
 
-int main() 
+int main()
 {
     // Declare 2 empty vectors of integers named Vector1 and Vector2.
     std::vector <int> Vector1, Vector2;
@@ -42,8 +42,8 @@ int main()
     Vector1.push_back(20);
 
     // Display the elements in Vector1 using the at() method as well as its size using the size() method
-    std::cout 
-        << std::endl 
+    std::cout
+        << std::endl
         << "Vector1: " << std::endl
         << Vector1.at(0) << std::endl
         << Vector1.at(1) << std::endl
@@ -54,8 +54,8 @@ int main()
     Vector2.push_back(200);
 
     // Display the elements in Vector2 using the at() method as well as its size using the size() method
-    std::cout 
-        << std::endl 
+    std::cout
+        << std::endl
         << "Vector2: " << std::endl
         << Vector2.at(0) << std::endl
         << Vector2.at(1) << std::endl
@@ -71,8 +71,8 @@ int main()
     Vector2D.push_back(Vector2);
 
     // Display the elements in Vector2D using the at() method
-    std::cout 
-        << std::endl 
+    std::cout
+        << std::endl
         << "Vector2D:" << std::endl
         << Vector2D.at(0).at(0) << "  " << Vector2D.at(0).at(1) << std::endl
         << Vector2D.at(1).at(0) << "  " << Vector2D.at(1).at(1) << std::endl;
@@ -81,15 +81,15 @@ int main()
     Vector1.at(0) = 1000;
 
     // Display the elements in Vector2D again using the at() method
-    std::cout 
-        << std::endl 
+    std::cout
+        << std::endl
         << "Vector2D:" << std::endl
         << Vector2D.at(0).at(0) << "  " << Vector2D.at(0).at(1) << std::endl
         << Vector2D.at(1).at(0) << "  " << Vector2D.at(1).at(1) << std::endl;
 
     // Display the elements in Vector1 
-    std::cout 
-        << std::endl 
+    std::cout
+        << std::endl
         << "Vector1: " << std::endl
         << Vector1.at(0) << std::endl
         << Vector1.at(1) << std::endl

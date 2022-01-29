@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{01c529f3-f685-40d6-bd16-b0beec1a1ea2}</ProjectGuid>
-    <RootNamespace>Section8GRelationalOperators</RootNamespace>
+    <RootNamespace>Section8_G_RelationalOperators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section8_G_RelationalOperators</ProjectName>
   </PropertyGroup>

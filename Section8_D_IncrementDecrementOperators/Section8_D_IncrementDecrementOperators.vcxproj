@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{4affcdf2-7b03-411a-8ccc-4852560c486c}</ProjectGuid>
-    <RootNamespace>Section8DIncrementDecrementOperators</RootNamespace>
+    <RootNamespace>Section8_D_IncrementDecrementOperators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section8_D_IncrementDecrementOperators</ProjectName>
   </PropertyGroup>

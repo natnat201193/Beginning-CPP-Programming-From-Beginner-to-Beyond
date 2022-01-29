@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{686fdc60-4ffc-4e2d-acd6-123bf9e21454}</ProjectGuid>
-    <RootNamespace>Section9HForLoop</RootNamespace>
+    <RootNamespace>Section9_H_ForLoop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section9_H_ForLoop</ProjectName>
   </PropertyGroup>

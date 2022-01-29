@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{e97ef48d-0277-4bfc-b2a8-fa9e7171eb4b}</ProjectGuid>
-    <RootNamespace>Section9ESwitchStatement</RootNamespace>
+    <RootNamespace>Section9_E_SwitchStatement</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section9_E_SwitchStatement</ProjectName>
   </PropertyGroup>

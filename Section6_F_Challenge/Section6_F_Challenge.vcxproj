@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{96de134b-7e2b-44db-8c24-8f0648e21e30}</ProjectGuid>
-    <RootNamespace>Section6FChallenge</RootNamespace>
+    <RootNamespace>Section6_F_Challenge</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section6_F_Challenge</ProjectName>
   </PropertyGroup>

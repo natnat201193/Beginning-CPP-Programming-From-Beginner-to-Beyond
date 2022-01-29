@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{31e0e3b4-0cee-490e-8cb5-41b12a9d1a24}</ProjectGuid>
-    <RootNamespace>Section6EConstants</RootNamespace>
+    <RootNamespace>Section6_E_Constants</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section6_E_Constants</ProjectName>
   </PropertyGroup>

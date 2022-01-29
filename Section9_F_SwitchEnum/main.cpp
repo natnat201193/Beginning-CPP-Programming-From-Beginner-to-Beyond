@@ -7,7 +7,7 @@
 
 int main() 
 {
-    enum class Direction 
+    enum class Direction
     {
         Left,
         Right,

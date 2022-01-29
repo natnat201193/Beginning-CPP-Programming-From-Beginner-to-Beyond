@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{e248b548-c0c4-4ee2-b696-61923de442e3}</ProjectGuid>
-    <RootNamespace>Section9CGrades</RootNamespace>
+    <RootNamespace>Section9_C_Grades</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Section9_C_Grades</ProjectName>
   </PropertyGroup>
