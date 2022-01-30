@@ -8,8 +8,8 @@
 
 int main()
 {
-    char FirstName[20]{};
-    char LastName[20]{};
+    //char FirstName[20]{};
+    //char LastName[20]{};
     char FullName[50]{};
     char Temp[50]{};
 
