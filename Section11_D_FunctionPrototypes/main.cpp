@@ -2,21 +2,34 @@
 
 // PVS-Studio Static Code Analyzer for C, C++, C#, and Java: http://www.viva64.com
 
-// Function Definitions
+// Function Prototypes
 // Area of Circle and Volume of a Cylinder
 #define _USE_MATH_DEFINES // for M_PI
 #include <cmath> // for M_PI
 #include <iostream>
 
-double CalcAreaCircle(double Radius)
+// Function prototypes
+double CalcVolumeCylinder(double Radius, double Height);
+double CalcAreaCircle(double Radius);
+void AreaCircle();
+void VolumeCylinder();
+
+int main()
 {
-    return (M_PI * Radius * Radius);
+    AreaCircle();
+    VolumeCylinder();
+    return 0;
 }
 
 double CalcVolumeCylinder(double Radius, double Height)
 {
-    //return (M_PI * Radius * Radius * Height);
+    // return (M_PI *Radius * Radius * Height);
     return (CalcAreaCircle(Radius) * Height);
+}
+
+double CalcAreaCircle(double Radius)
+{
+    return (M_PI * Radius * Radius);
 }
 
 void AreaCircle()
@@ -33,16 +46,7 @@ void VolumeCylinder()
     double Height{};
     std::cout << std::endl << "Enter the Radius of the cylinder: ";
     std::cin >> Radius;
-    std::cout << std::endl << "Enter the Height of the cylinder: ";
+    std::cout << "Enter the Height of the cylinder: ";
     std::cin >> Height;
-
-    std::cout << "The volume of a cylinder with Radius " << Radius << " and Height " << Height << " is " << CalcVolumeCylinder(Radius, Height) << std::endl;
-}
-
-int main()
-{
-    AreaCircle();
-    //AreaCircle();
-    VolumeCylinder();
-    return 0;
+    std::cout << std::endl << "The volume of a cylinder with Radius " << Radius << " and Height " << Height << " is " << CalcVolumeCylinder(Radius, Height) << std::endl;
 }
