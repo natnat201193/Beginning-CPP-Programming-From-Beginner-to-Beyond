@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section10_D_Challenge", "Se
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section10_E_Assignment", "Section10_E_Assignment\Section10_E_Assignment.vcxproj", "{A419F02D-17CF-4BFA-ACB5-1B5F7808AE95}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section11_A_Math", "Section11_A_Math\Section11_A_Math.vcxproj", "{D2436349-DDBB-4B8E-AFD7-93211547F273}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -411,6 +413,14 @@ Global
 		{A419F02D-17CF-4BFA-ACB5-1B5F7808AE95}.Release|x64.Build.0 = Release|x64
 		{A419F02D-17CF-4BFA-ACB5-1B5F7808AE95}.Release|x86.ActiveCfg = Release|Win32
 		{A419F02D-17CF-4BFA-ACB5-1B5F7808AE95}.Release|x86.Build.0 = Release|Win32
+		{D2436349-DDBB-4B8E-AFD7-93211547F273}.Debug|x64.ActiveCfg = Debug|x64
+		{D2436349-DDBB-4B8E-AFD7-93211547F273}.Debug|x64.Build.0 = Debug|x64
+		{D2436349-DDBB-4B8E-AFD7-93211547F273}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2436349-DDBB-4B8E-AFD7-93211547F273}.Debug|x86.Build.0 = Debug|Win32
+		{D2436349-DDBB-4B8E-AFD7-93211547F273}.Release|x64.ActiveCfg = Release|x64
+		{D2436349-DDBB-4B8E-AFD7-93211547F273}.Release|x64.Build.0 = Release|x64
+		{D2436349-DDBB-4B8E-AFD7-93211547F273}.Release|x86.ActiveCfg = Release|Win32
+		{D2436349-DDBB-4B8E-AFD7-93211547F273}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
