@@ -22,7 +22,7 @@
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{f86051f7-3440-479e-9b6f-3efc134bdce9}</ProjectGuid>
-    <RootNamespace>Section11_M_Challenge</RootNamespace>
+    <RootNamespace>Section11_N_Challenge</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

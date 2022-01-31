@@ -109,7 +109,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section11_L_Fibonacci", "Se
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section11_M_Factorial", "Section11_M_Factorial\Section11_M_Factorial.vcxproj", "{0244A876-CE8F-425D-B7EA-1F4D1FBFCDB3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section11_M_Challenge", "Section11_M_Challenge\Section11_M_Challenge.vcxproj", "{F86051F7-3440-479E-9B6F-3EFC134BDCE9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section11_N_Challenge", "Section11_N_Challenge\Section11_N_Challenge.vcxproj", "{F86051F7-3440-479E-9B6F-3EFC134BDCE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
