@@ -7,7 +7,7 @@
 #include <string>
 #include <vector>
 
-void swap(int* A, int* B)
+void Swap(int* A, int* B)
 {
     int Temp = *A;
     *A = *B;
@@ -20,7 +20,7 @@ int main()
     std::cout << std::endl << "X: " << X << std::endl;
     std::cout << "Y: " << Y << std::endl;
 
-    swap(&X, &Y);
+    Swap(&X, &Y);
 
     std::cout << std::endl << "X: " << X << std::endl;
     std::cout << "Y: " << Y << std::endl;

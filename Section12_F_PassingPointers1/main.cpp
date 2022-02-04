@@ -5,7 +5,7 @@
 // Passing Pointers 1
 #include <iostream>
 
-void double_data(int* IntPtr)
+void DoubleData(int* IntPtr)
 {
     *IntPtr *= 2;
 }
@@ -16,12 +16,12 @@ int main()
     int* IntPtr{ nullptr };
 
     std::cout << "Value: " << Value << std::endl;
-    double_data(&Value);
+    DoubleData(&Value);
     std::cout << "Value: " << Value << std::endl;
 
     std::cout << "-----------------------------" << std::endl;
     IntPtr = &Value;
-    double_data(IntPtr);
+    DoubleData(IntPtr);
     std::cout << "Value: " << Value << std::endl;
 
     std::cout << std::endl;

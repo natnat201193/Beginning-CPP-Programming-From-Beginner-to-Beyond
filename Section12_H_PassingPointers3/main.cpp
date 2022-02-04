@@ -7,7 +7,7 @@
 #include <string>
 #include <vector>
 
-void display(const std::vector<std::string>* const  V)
+void Display(const std::vector<std::string>* const  V)
 {
     //(*V).at(0) = "Funny";
     for (auto &Str : *V)
@@ -16,7 +16,7 @@ void display(const std::vector<std::string>* const  V)
     //V = nullptr;
 }
 
-void display(int* Array, int Sentinel)
+void Display(int* Array, int Sentinel)
 {
     while (*Array != Sentinel)
         std::cout << *Array++ << " ";
@@ -27,11 +27,11 @@ int main()
 {
     std::cout << "-----------------------------" << std::endl;
     std::vector<std::string> Stooges{ "Larry", "Moe", "Curly" };
-    display(&Stooges);
+    Display(&Stooges);
 
     std::cout << std::endl << "-----------------------------" << std::endl;
     int Scores[]{ 100,98,97,79,85,-1 };
-    display(Scores, -1);
+    Display(Scores, -1);
 
     std::cout << std::endl;
     return 0;
