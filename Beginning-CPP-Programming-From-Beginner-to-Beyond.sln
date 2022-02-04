@@ -123,6 +123,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section12_E_PointerArithmet
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section12_F_PassingPointers1", "Section12_F_PassingPointers1\Section12_F_PassingPointers1.vcxproj", "{62472EB4-23FE-4FCB-A29E-3E038350D091}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section12_G_PassingPointers2", "Section12_G_PassingPointers2\Section12_G_PassingPointers2.vcxproj", "{AA6ACB6D-ED68-4728-B251-7DFE0ECC81A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -611,6 +613,14 @@ Global
 		{62472EB4-23FE-4FCB-A29E-3E038350D091}.Release|x64.Build.0 = Release|x64
 		{62472EB4-23FE-4FCB-A29E-3E038350D091}.Release|x86.ActiveCfg = Release|Win32
 		{62472EB4-23FE-4FCB-A29E-3E038350D091}.Release|x86.Build.0 = Release|Win32
+		{AA6ACB6D-ED68-4728-B251-7DFE0ECC81A7}.Debug|x64.ActiveCfg = Debug|x64
+		{AA6ACB6D-ED68-4728-B251-7DFE0ECC81A7}.Debug|x64.Build.0 = Debug|x64
+		{AA6ACB6D-ED68-4728-B251-7DFE0ECC81A7}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA6ACB6D-ED68-4728-B251-7DFE0ECC81A7}.Debug|x86.Build.0 = Debug|Win32
+		{AA6ACB6D-ED68-4728-B251-7DFE0ECC81A7}.Release|x64.ActiveCfg = Release|x64
+		{AA6ACB6D-ED68-4728-B251-7DFE0ECC81A7}.Release|x64.Build.0 = Release|x64
+		{AA6ACB6D-ED68-4728-B251-7DFE0ECC81A7}.Release|x86.ActiveCfg = Release|Win32
+		{AA6ACB6D-ED68-4728-B251-7DFE0ECC81A7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
