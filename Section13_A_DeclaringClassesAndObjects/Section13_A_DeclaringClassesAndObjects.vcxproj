@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{06a3725b-358a-4cba-a68c-c3d3166081f0}</ProjectGuid>
-    <RootNamespace>Section6_D_SizeofOperator</RootNamespace>
+    <ProjectGuid>{99f772b9-c967-4af7-afd0-f3ca2bc75e14}</ProjectGuid>
+    <RootNamespace>Section13ADeclaringClassesAndObjects</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Section6_D_SizeofOperator</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
