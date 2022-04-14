@@ -31,8 +31,8 @@ public:
 	void SetName(const std::string &N);
 	std::string GetName();
 
-	bool Deposit(double Amount);
-	bool Withdraw(double Amount);
+	bool Deposit(const double &Amount);
+	bool Withdraw(const double &Amount);
 };
 
 void Account::SetName(const std::string &N)
@@ -45,14 +45,14 @@ std::string Account::GetName()
 	return Name;
 }
 
-bool Account::Deposit(const double Amount)
+bool Account::Deposit(const double &Amount)
 {
 	// if verify amount
 	Balance += Amount;
 	return true;
 }
 
-bool Account::Withdraw(const double Amount)
+bool Account::Withdraw(const double &Amount)
 {
 	if (Balance - Amount >= 0)
 	{
